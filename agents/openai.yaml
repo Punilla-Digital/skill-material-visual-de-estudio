@@ -1,0 +1,7 @@
+interface:
+  display_name: Material Visual de Estudio
+  short_description: Esquemas, tablas y fichas para estudiar y repasar
+  default_prompt: Usá $material-visual-de-estudio para convertir este material en
+    recursos visuales de estudio y repaso.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
